@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# 创建者：黄金
+# 创建时间:2022/9/18
+# 版本:V1.0
 
 from cgi import print_arguments
 import io
