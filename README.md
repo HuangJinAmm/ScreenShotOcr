@@ -1,14 +1,12 @@
 截屏ocr小工具
 
-采用python中的 pyqt5+paddleocr+opencv写的一个单机版的截屏识别小工具。可以识别表格和布局。识别后数据会放在剪切板，然后就可以快乐的ctrl+V了，表格数据可以在excel里直接ctrl+V。
+采用python中的 pyqt5+paddleocr+opencv写的一个单机版的截屏识别小工具。可以识别表格和布局。识别后数据会放在剪切板，然后就可以快乐的ctrl+V了，表格数据可以在excel里直接ctrl+V。（想用其他ocr的可看看这个[Tesseract OCR Engine](https://github.com/tesseract-ocr/tesseract)）
 
 - **截图识别文字:** 识别文字。切会按照布局位置添加缩进。（这个也可以识别简单的表格数据，识别后的数据的列用“\t“隔开）。  
 
 - **识别表格：** 可以识别表格和布局。这个paddleocr自带的实现。可以识别合并的单元格。
 
 - **识别关键信息：** 埋个坑先。
-
-
 
 运行步骤：
 
