@@ -20,4 +20,4 @@
 
 ![13.gif](.\res\13.gif)
 
-![12.gif](D:\2-learn\python\ScreenShotOcr\res\12.gif)
+![12.gif](.\res\12.gif)
